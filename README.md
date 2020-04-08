@@ -1,2 +1,3 @@
 # postgresql-gcloud-docker
-Postgresql Alpine witg gsutil
+
+Postgresql Alpine with gsutil
