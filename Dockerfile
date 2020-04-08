@@ -1,6 +1,6 @@
 
 
-FROM postgresql:12-alpine
+FROM postgres:12-alpine
 
 ARG CLOUD_SDK_VERSION=288.0.0
 ENV CLOUD_SDK_VERSION=$CLOUD_SDK_VERSION
